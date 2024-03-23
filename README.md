@@ -16,9 +16,9 @@
 
 <br>
 
-- A passionate self-taught Full Stack Developer
-- Currently learning TypeScript & Tailwind
-- Interested in Programming, Reading, Cycling, Gaming & Football
+- A passionate Software Enginner
+- Currently learning BlockChain
+- Interested in Programming, Reading, Gaming
 - Reach me on [LinkedIn](https://www.linkedin.com/in/samee-rizwan-4b7099178/)
 - Check out my [Portfolio](https://github.com/sameerizwan)
 
@@ -105,12 +105,6 @@
 
 <br>
 
-<li>
-<a href="mailto:sameerizwan3@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:%20%20Samee %2300acee.svg?color=red&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</li>
-	
 </ul>
 </div>
 
