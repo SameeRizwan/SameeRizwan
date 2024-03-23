@@ -1,7 +1,7 @@
 <h1 align="center"><b>I'm Samee Rizwan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Sofwatre+ENgineer,;Computing+For+Business+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer,;Computing+For+Business+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
 </p>
 
 
@@ -34,7 +34,6 @@
 - **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   
  
     
@@ -43,15 +42,12 @@
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 	
 - **Back-End Development**:
 
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
 - **Softwares and Tools**:
@@ -63,22 +59,7 @@
 - **Currently Learning/Developing**:
 - 
     ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Terraform](https://img.shields.io/badge/Terraform%20-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
-    ![Spanish](https://img.shields.io/badge/spanish-%23FF8C00.svg?style=for-the-badge&logoColor=white)
-    ![French](https://img.shields.io/badge/french-%230091EA.svg?style=for-the-badge&logoColor=white)
-    ![Arabic](https://img.shields.io/badge/arabic-%2300C851.svg?style=for-the-badge&logoColor=white)
-	
-	
-- **Resources Used**:
 
-    ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-    ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-    ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-    ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-    ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-    ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-    
-    ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 	
 </p>
 
@@ -126,7 +107,7 @@
 
 <li>
 <a href="mailto:sameerizwan3@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:%20%20Samee%2300acee.svg?color=red&style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/gmail:%20%20Samee %2300acee.svg?color=red&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
 	
